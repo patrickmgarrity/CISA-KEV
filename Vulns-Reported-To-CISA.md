@@ -11,5 +11,6 @@
 | CVE-2021-25371 | Samsung Android | https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/view#gid=0 | TBD | 6/6/2023 | TBD |
 | CVE-2021-25372 | Samsung Android | https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/view#gid=0 | TBD | 6/6/2023 | TBD |
 | CVE-2017-1274 | IBM Domino | https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/view#gid=0 | TBD | 6/6/2023 | TBD |
-| CVE-2016-9079 | Mozilla Firefox | https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/view#gid=0 | TBD | 6/6/2023 | TBD |
-| CVE-2016-0165 | Microsoft Windows Kernel | https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/view#gid=0 | TBD | 6/6/2023 | TBD |
+| CVE-2016-9079 | Mozilla Firefox | https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/view#gid=0 | TBD | 6/6/2023 | Added - 06/22/2023 |
+| CVE-2016-0165 | Microsoft Windows Kernel | https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/view#gid=0 | TBD | 6/6/2023 | Added - 06/22/2023 |
+| CVE-2023-24932 | Microsoft Windows | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24932 | TBD | 6/6/2023 | Denied - No Sufficient Fix Provided by Microsoft |
