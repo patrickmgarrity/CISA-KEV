@@ -1,5 +1,6 @@
 | Vulnerability| Product | Exploitation Evidence | Patch | Date Reported | Status |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| CVE-2023-30777 | Advanced Custom Fields | [Akamai](https://www.akamai.com/blog/security-research/attackers-leverage-sample-exploit-wordpress-plugin)) | https://www.advancedcustomfields.com/blog/acf-6-1-6 | 6/29/2023 | TBD |
 | CVE-2018-9206 | jQuery File Upload | [Imperva](https://www.imperva.com/blog/crimeops-of-the-kashmirblack-botnet-part-ii/) | https://help.coalitioninc.com/hc/en-us/articles/7688075068699-How-to-mitigate-CVE-2018-9206-jQuery-File-Uploader-vulnerability#:~:text=CVE%2D2018%2D9206%20documents%20an,plugin%20maintainer%20provided%20a%20fix. | 6/27/2023 | TBD |
 | CVE-2019-9194 | ELFinder | [Imperva](https://www.imperva.com/blog/crimeops-of-the-kashmirblack-botnet-part-ii/) | https://github.com/Studio-42/elFinder/blob/98d48fa9877a1905a0c36b8fda908b7193614b9c/Changelog#L229 | 6/27/2023 | TBD |
 | CVE-2019-12725 | Zeroshell | [Palo Alto Unit 42](https://unit42.paloaltonetworks.com/mirai-variant-targets-iot-exploits/) | https://www.zeroshell.org/new-release-and-critical-vulnerability/ | 6/26/2023 | TBD |
