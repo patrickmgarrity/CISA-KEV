@@ -7,8 +7,8 @@
 |CVE-2019-2729|https://medium.com/@knownsec404team/knownsec-404-team-alert-again-cve-2019-2725-patch-bypassed-32a6a7b7ca15|https://www.oracle.com/security-alerts/alert-cve-2019-2729.html|
 |CVE-2019-9081|NO CVE - https://unit42.paloaltonetworks.com/lucifer-new-cryptojacking-and-ddos-hybrid-malware/|https://security.snyk.io/vuln/SNYK-PHP-LARAVELFRAMEWORK-174529|
 |CVE-2017-18362|https://www.zdnet.com/article/gandcrab-ransomware-gang-infects-customers-of-remote-it-support-firms/|https://helpdesk.kaseya.com/hc/en-gb/articles/360022564252-Connectwise-API-Vulnerability|
-|CVE-2017-6884|[Palo Alto Unit 42](https://unit42.paloaltonetworks.com/unit42-multi-exploit-iotlinux-botnets-mirai-gafgyt-target-apache-struts-sonicwall/)|
-|CVE-2018-9866|[Palo Alto Unit 42](https://unit42.paloaltonetworks.com/unit42-multi-exploit-iotlinux-botnets-mirai-gafgyt-target-apache-struts-sonicwall/)|
+|CVE-2017-6884|[Palo Alto Unit 42](https://unit42.paloaltonetworks.com/unit42-multi-exploit-iotlinux-botnets-mirai-gafgyt-target-apache-struts-sonicwall/)|[EOL Product](https://www.zyxelguard.com/Zyxel-EOL.asp)|
+|CVE-2018-9866|[Palo Alto Unit 42](https://unit42.paloaltonetworks.com/unit42-multi-exploit-iotlinux-botnets-mirai-gafgyt-target-apache-struts-sonicwall/)|https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2018-0007|
 |CVE-2017-17215|[Palo Alto Unit 42](https://unit42.paloaltonetworks.com/unit42-multi-exploit-iotlinux-botnets-mirai-gafgyt-target-apache-struts-sonicwall/)|
 |CVE-2021-31206|https://lookingglasscyber.com/blog/threat-intelligence-insights/top-kevs-in-financial-services/|
 |CVE-2020-0610|
