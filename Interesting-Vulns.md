@@ -10,7 +10,7 @@
 |CVE-2017-6884|[Palo Alto Unit 42](https://unit42.paloaltonetworks.com/unit42-multi-exploit-iotlinux-botnets-mirai-gafgyt-target-apache-struts-sonicwall/)|
 |CVE-2018-9866|[Palo Alto Unit 42](https://unit42.paloaltonetworks.com/unit42-multi-exploit-iotlinux-botnets-mirai-gafgyt-target-apache-struts-sonicwall/)|
 |CVE-2017-17215|[Palo Alto Unit 42](https://unit42.paloaltonetworks.com/unit42-multi-exploit-iotlinux-botnets-mirai-gafgyt-target-apache-struts-sonicwall/)|
-|CVE-2021-31206|
+|CVE-2021-31206|https://lookingglasscyber.com/blog/threat-intelligence-insights/top-kevs-in-financial-services/|
 |CVE-2020-0610|
 |CVE-2017-8046|
 |CVE-2018-5391|
