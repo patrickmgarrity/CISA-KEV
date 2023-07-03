@@ -1,5 +1,5 @@
-|CVE|Exploitation Evidence|Patch|
-|---|-------------|----|
+|CVE|Product|Exploitation Evidence|Patch|
+|---|-------|-------------|----|
 |CVE-2017-8046|TBD|[Redhat](https://access.redhat.com/errata/RHSA-2018:2405)|
 |CVE-2009-0824|[ESET](https://www.welivesecurity.com/2022/01/11/signed-kernel-drivers-unguarded-gateway-windows-core/)|TBD|
 |CVE-2007-1036|
