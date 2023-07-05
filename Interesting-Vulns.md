@@ -40,8 +40,8 @@
 |CVE-2015-2551|
 |CVE-2015-7465|
 |CVE-2020-36195|
-|CVE-2018-1000136|
-|CVE-2021-30119|
-|CVE-2021-30120|
-|CVE-2018-12808|
-|CVE-2020-0609|
+|CVE-2018-1000136|Electron|?|https://www.electronjs.org/blog/webview-fix|
+|CVE-2021-30119|Kaseya VSA|?|https://helpdesk.kaseya.com/hc/en-gb/articles/360019966738-9-5-6-Feature-Release-8-May-2021|
+|CVE-2021-30120|Kaseya VSA|?|https://helpdesk.kaseya.com/hc/en-gb/articles/360019966738-9-5-6-Feature-Release-8-May-2021|
+|CVE-2018-12808|Adobe Acrobat and Reader|?|https://helpx.adobe.com/security/products/acrobat/apsb18-29.html|
+|CVE-2020-0609|Windows Remote Desktop Gateway (RD Gateway)|?|https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2020-0609|
