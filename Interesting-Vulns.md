@@ -10,20 +10,15 @@
 |CVE-2017-6884|Zyxel EMG2926|[Palo Alto Unit 42](https://unit42.paloaltonetworks.com/unit42-multi-exploit-iotlinux-botnets-mirai-gafgyt-target-apache-struts-sonicwall/)|[EOL Product](https://www.zyxelguard.com/Zyxel-EOL.asp)|
 |CVE-2018-9866|SonicWall Global Management System.|[Palo Alto Unit 42](https://unit42.paloaltonetworks.com/unit42-multi-exploit-iotlinux-botnets-mirai-gafgyt-target-apache-struts-sonicwall/)|https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2018-0007|
 |CVE-2017-17215|Huawei HG532|[Palo Alto Unit 42](https://unit42.paloaltonetworks.com/unit42-multi-exploit-iotlinux-botnets-mirai-gafgyt-target-apache-struts-sonicwall/)|
-|CVE-2021-31206|Microsoft Exchange Server|https://lookingglasscyber.com/blog/threat-intelligence-insights/top-kevs-in-financial-services/|
-|CVE-2020-0610|
-|CVE-2017-8046|
-|CVE-2018-5391|
-|CVE-2018-10115|
-|CVE-2017-6034|
-|CVE-2017-6032|
-|CVE-2020-10713|
-|CVE-2017-6032|
-|CVE-2017-6034|
-|CVE-2020-10713|
-|CVE-2020-36195|
-|CVE-2010-1592|
-|CVE-2017-15302|
+|CVE-2021-31206|Microsoft Exchange Server|?|https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-31206|
+|CVE-2020-0610|Windows Remote Desktop Gateway|?|https://msrc.microsoft.com/update-guide/vulnerability/CVE-2020-0610|
+|CVE-2018-5391|Linux kernel|[Ivanti Report](https://www.darkreading.com/attacks-breaches/dozens-of-vulns-in-ransomware-attacks-offer-adversaries-full-kill-chain)|https://nvd.nist.gov/vuln/detail/cve-2018-5391|
+|CVE-2018-10115|?|https://landave.io/2018/05/7-zip-from-uninitialized-memory-to-remote-code-execution/|
+|CVE-2017-6034|Schneider Electric Modicon Modbus Protocol|?|https://download.schneider-electric.com/files?p_enDocType=Other+technical+guide&p_File_Name=SEVD-2017-065-01-Modicon-SCADAPack-V3.0.pdf&p_Doc_Ref=SEVD-2017-065-01|
+|CVE-2017-6032|Schneider Electric Modicon Modbus Protocol|?|
+|CVE-2020-10713|Linux-grub2|?|https://access.redhat.com/errata/RHSA-2020:3216|
+|CVE-2010-1592|SiSoftware Sandra|[ESET](https://www.welivesecurity.com/2022/01/11/signed-kernel-drivers-unguarded-gateway-windows-core/)|?|
+|CVE-2017-15302|CPUID CPU-Z|
 |CVE-2015-7465|
 |CVE-2015-2551|
 |CVE-2013-0322|
