@@ -28,6 +28,7 @@ VULNS READY FOR CISA
 VULNS Needing Analysis
 |CVE|Product|Exploitation Evidence|Patch|
 |---|-------|-------------|----|
+|CVE-2023-23752|Joomla|https://isc.sans.edu/diary/Increase+in+exploits+agains+Joomla+CVE202323752/29614|?|
 |CVE-2017-8046|Redhat|TBD|[Redhat](https://access.redhat.com/errata/RHSA-2018:2405)|
 |CVE-2019-9081|TBD|NO CVE - https://unit42.paloaltonetworks.com/lucifer-new-cryptojacking-and-ddos-hybrid-malware/|https://security.snyk.io/vuln/SNYK-PHP-LARAVELFRAMEWORK-174529|
 |CVE-2010-1592|SiSoftware Sandra|[ESET](https://www.welivesecurity.com/2022/01/11/signed-kernel-drivers-unguarded-gateway-windows-core/)|?|
