@@ -22,8 +22,8 @@
 |CVE-2020-0609|Windows Remote Desktop Gateway (RD Gateway)|[CybersecurityWorks / Securin](https://cybersecurityworks.com/howdymanage/uploads/file/Spotlight%20Report%20-%20Index%20Update%20Q2%20-%20Q3%20-%20Final%20Version_compressed.pdf)|https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2020-0609|
 |CVE-2022-31199|Netwrix Auditor|[CISA](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-and-partners-release-joint-cybersecurity-advisory-newly-identified-truebot-malware-variants)|https://bishopfox.com/blog/netwrix-auditor-advisory|
 |CVE-2017-17215|Huawei HG532|[Palo Alto Unit 42](https://unit42.paloaltonetworks.com/unit42-multi-exploit-iotlinux-botnets-mirai-gafgyt-target-apache-struts-sonicwall/)|https://www.huawei.com/en/psirt/security-notices/huawei-sn-20171130-01-hg532-en|
+|CVE-2009-0824|SlySoft |[ESET](https://www.welivesecurity.com/2022/01/11/signed-kernel-drivers-unguarded-gateway-windows-core/)|https://exchange.xforce.ibmcloud.com/vulnerabilities/49232|
 |CVE-2017-8046|Redhat|TBD|[Redhat](https://access.redhat.com/errata/RHSA-2018:2405)|
-|CVE-2009-0824|Elaborate Bytes|[ESET](https://www.welivesecurity.com/2022/01/11/signed-kernel-drivers-unguarded-gateway-windows-core/)|TBD|
 |CVE-2019-9081|TBD|NO CVE - https://unit42.paloaltonetworks.com/lucifer-new-cryptojacking-and-ddos-hybrid-malware/|https://security.snyk.io/vuln/SNYK-PHP-LARAVELFRAMEWORK-174529|
 |CVE-2010-1592|SiSoftware Sandra|[ESET](https://www.welivesecurity.com/2022/01/11/signed-kernel-drivers-unguarded-gateway-windows-core/)|?|
 |CVE-2015-7465|IBM Jazz Reporting Service|?|?|
