@@ -19,25 +19,15 @@
 |CVE-2020-10713|Linux-grub2|?|https://access.redhat.com/errata/RHSA-2020:3216|
 |CVE-2010-1592|SiSoftware Sandra|[ESET](https://www.welivesecurity.com/2022/01/11/signed-kernel-drivers-unguarded-gateway-windows-core/)|?|
 |CVE-2017-15302|CPUID CPU-Z|
-|CVE-2015-7465|
-|CVE-2015-2551|
-|CVE-2013-0322|
-|CVE-2012-3347|
-|CVE-2020-36195|
-|CVE-2013-2618|
-|CVE-2019-9081|
-|CVE-2018-8174|
-|CVE-2019-5039|
-|CVE-2019-16647|
-|CVE-2017-6884|
-|CVE-2017-3198|
-|CVE-2017-3197|
-|CVE-2017-6884|
-|CVE-2020-16875|
-|CVE-2019-2729|
-|CVE-2019-9081|
-|CVE-2015-2551|
-|CVE-2015-7465|IBM Jazz Reporting Service|?|
+|CVE-2013-0322|Ubercart module|?|https://www.drupal.org/node/1922418|
+|CVE-2012-3347|AutoFORM PDM Archive|?|https://www.kb.cert.org/vuls/id/773035|
+|CVE-2013-2618|Network Weathermap|
+|CVE-2019-5039|Openweave-core|
+|CVE-2019-16647|Maxthon|
+|CVE-2017-3198|GIGABYTE BRIX UEFI firmware|?|?|
+|CVE-2017-3197|GIGABYTE BRIX UEFI firmware|?|?|
+|CVE-2020-16875|Microsoft Exchange|?|https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2020-16875|
+|CVE-2015-7465|IBM Jazz Reporting Service|?|?|
 |CVE-2020-36195|QNAP NAS|[QNAP](https://www.qnap.com/en/security-news/2021/response-to-qlocker-ransomware-attacks-take-actions-to-secure-qnap-nas)|[QNAP Patch](https://www.qnap.com/en/security-advisory/qsa-21-11)|
 |CVE-2018-1000136|Electron|?|https://www.electronjs.org/blog/webview-fix|
 |CVE-2021-30119|Kaseya VSA|?|https://helpdesk.kaseya.com/hc/en-gb/articles/360019966738-9-5-6-Feature-Release-8-May-2021|
