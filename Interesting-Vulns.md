@@ -35,3 +35,5 @@
 |CVE-2019-16647|Maxthon|
 |CVE-2017-3198|GIGABYTE BRIX UEFI firmware|?|?|
 |CVE-2017-3197|GIGABYTE BRIX UEFI firmware|?|?|
+
+|CVE-2007-5633|Alfredo Milani Comparetti SpeedFan|?|[ESET](https://www.welivesecurity.com/2022/01/11/signed-kernel-drivers-unguarded-gateway-windows-core/)
