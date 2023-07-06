@@ -31,7 +31,7 @@
 |CVE-2007-1036|
 |CVE-2020-36195|TBD|TBD - Other Vulnerability|
 |CVE-2013-2618|Network Weathermap|
-|CVE-2019-5039|Openweave-core|
+|CVE-2019-5039|Openweave-core||https://openweave.io/resources/disclosures|
 |CVE-2019-16647|Maxthon|
 |CVE-2017-3198|GIGABYTE BRIX UEFI firmware|?|?|
 |CVE-2017-3197|GIGABYTE BRIX UEFI firmware|?|?|
