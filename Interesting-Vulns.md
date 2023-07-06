@@ -37,9 +37,8 @@
 |CVE-2019-2729|
 |CVE-2019-9081|
 |CVE-2015-2551|
-|CVE-2015-2551|
-|CVE-2015-7465|
-|CVE-2020-36195|
+|CVE-2015-7465|IBM Jazz Reporting Service|?|
+|CVE-2020-36195|QNAP NAS|[QNAP](https://www.qnap.com/en/security-news/2021/response-to-qlocker-ransomware-attacks-take-actions-to-secure-qnap-nas)|[QNAP Patch](https://www.qnap.com/en/security-advisory/qsa-21-11)|
 |CVE-2018-1000136|Electron|?|https://www.electronjs.org/blog/webview-fix|
 |CVE-2021-30119|Kaseya VSA|?|https://helpdesk.kaseya.com/hc/en-gb/articles/360019966738-9-5-6-Feature-Release-8-May-2021|
 |CVE-2021-30120|Kaseya VSA|?|https://helpdesk.kaseya.com/hc/en-gb/articles/360019966738-9-5-6-Feature-Release-8-May-2021|
