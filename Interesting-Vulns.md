@@ -45,3 +45,4 @@
 |CVE-2021-30120|Kaseya VSA|?|https://helpdesk.kaseya.com/hc/en-gb/articles/360019966738-9-5-6-Feature-Release-8-May-2021|
 |CVE-2018-12808|Adobe Acrobat and Reader|?|https://helpx.adobe.com/security/products/acrobat/apsb18-29.html|
 |CVE-2020-0609|Windows Remote Desktop Gateway (RD Gateway)|?|https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2020-0609|
+|CVE-2022-31199|Netwrix Auditor|[CISA](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-and-partners-release-joint-cybersecurity-advisory-newly-identified-truebot-malware-variants)|https://bishopfox.com/blog/netwrix-auditor-advisory|
