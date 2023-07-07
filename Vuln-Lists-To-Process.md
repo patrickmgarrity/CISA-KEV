@@ -1,5 +1,6 @@
 |Source List|
 |-----------|
+|https://unit42.paloaltonetworks.com/network-threat-trends-research-report/|WIP
 |[Firefox - July 4th](https://www.mozilla.org/en-US/security/advisories/mfsa2023-24/)
 |https://therecord.media/microsoft-exchange-bugs-top-list-of-exploited-vulnerabilities-affecting-financial-sector|
 |[AlienVault Exploited](https://otx.alienvault.com/indicator/cve/CVE-2017-6884)|
@@ -7,3 +8,8 @@
 |Zero-Days.cz|
 |https://www.imperva.com/blog/crimeops-of-the-kashmirblack-botnet-part-ii/|
 |https://unit42.paloaltonetworks.com/mirai-variant-targets-iot-exploits/|
+|https://unit42.paloaltonetworks.com/moobot-d-link-devices/|
+|https://unit42.paloaltonetworks.com/mirai-variant-v3g4/|
+|https://unit42.paloaltonetworks.com/mirai-variant-iz1h9/|
+|https://unit42.paloaltonetworks.com/win32k-analysis-part-2/|
+|https://unit42.paloaltonetworks.com/manic-menagerie-targets-web-hosting-and-it/|
