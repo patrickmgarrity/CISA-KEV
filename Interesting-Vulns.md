@@ -10,6 +10,7 @@ VULNS READY FOR CISA
 VULNS That Need Analysis
 |CVE|Product|Exploitation Evidence|Patch|
 |---|-------|-------------|----|
+|CVE-2019-16662|rConfig|https://www.f5.com/labs/articles/threat-intelligence/vulnerabilities-exploits-and-malware-driving-attack-campaigns-in-november-2019|?|
 |CVE-2017-18368|Zyxel|https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-a-new-variant-of-gafgyt-malware|https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-a-new-variant-of-gafgyt-malware|
 |CVE-2014-8361|Realtek|https://unit42.paloaltonetworks.com/home-small-office-wireless-routers-exploited-to-attack-gaming-servers/|?|
 |CVE-2019-16662|rConfig|https://isc.sans.edu/diary/rConfig+Install+Directory+Remote+Code+Execution+Vulnerability+Exploited/25484|https://www.trendmicro.com/vinfo/us/security/news/vulnerabilities-and-exploits/unpatched-remote-code-execution-rconfig-flaws-could-affect-millions-of-servers-and-network-devices|
