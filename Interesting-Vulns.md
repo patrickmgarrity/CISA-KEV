@@ -10,6 +10,7 @@ VULNS READY FOR CISA
 VULNS That Need Analysis
 |CVE|Product|Exploitation Evidence|Patch|
 |---|-------|-------------|----|
+|CVE-2021-33544|UDP Geutebruck|https://cujo.com/iot-chronicle-summer-2021/|?|
 |CVE-2020-2883|Oracle Weblogic|https://www.zdnet.com/article/oracle-warns-of-attacks-against-recently-patched-weblogic-security-bug/|?|
 |CVE-2019-16662|rConfig|https://www.f5.com/labs/articles/threat-intelligence/vulnerabilities-exploits-and-malware-driving-attack-campaigns-in-november-2019|?|
 |CVE-2017-18368|Zyxel|https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-a-new-variant-of-gafgyt-malware|https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-a-new-variant-of-gafgyt-malware|
