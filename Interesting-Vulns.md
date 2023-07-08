@@ -1,17 +1,16 @@
 VULNS READY FOR CISA
 |CVE|Product|Exploitation Evidence|Patch|
 |---|-------|-------------|----|
-
-
-VULNS That Need Analysis
-|CVE|Product|Exploitation Evidence|Patch|
-|---|-------|-------------|----|
 |CVE-2022-31199|Netwrix Auditor|[CISA](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-and-partners-release-joint-cybersecurity-advisory-newly-identified-truebot-malware-variants)|https://bishopfox.com/blog/netwrix-auditor-advisory|
 |CVE-2009-0824|SlySoft |[ESET](https://www.welivesecurity.com/2022/01/11/signed-kernel-drivers-unguarded-gateway-windows-core/)|https://exchange.xforce.ibmcloud.com/vulnerabilities/49232|
 |CVE-2017-17215|Huawei HG532|[Palo Alto Unit 42](https://unit42.paloaltonetworks.com/unit42-multi-exploit-iotlinux-botnets-mirai-gafgyt-target-apache-struts-sonicwall/)|https://www.huawei.com/en/psirt/security-notices/huawei-sn-20171130-01-hg532-en|
 |CVE-2023-23752|Joomla|https://isc.sans.edu/diary/Increase+in+exploits+agains+Joomla+CVE202323752/29614|https://developer.joomla.org/security-centre/894-20230201-core-improper-access-check-in-webservice-endpoints.html|
-|CVE-2017-8046|Redhat|TBD|[Redhat](https://access.redhat.com/errata/RHSA-2018:2405)|
 |CVE-2020-9496|Apache OFBiz|https://lists.apache.org/thread/ln3jol43hgbmlkx1krx737zlt7kw84x7|https://www.csoonline.com/article/573753/zoho-manageengine-flaw-is-actively-exploited-cisa-warns.html|
+
+VULNS That Need Analysis
+|CVE|Product|Exploitation Evidence|Patch|
+|---|-------|-------------|----|
+|CVE-2017-8046|Redhat|TBD|[Redhat](https://access.redhat.com/errata/RHSA-2018:2405)|
 |CVE-2021-31805|?|?|PA|
 |CVE-2020-25078|?|?|PA|
 |CVE-2019-2729|?|?|PA|
