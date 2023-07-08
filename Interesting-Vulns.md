@@ -11,7 +11,8 @@ VULNS That Need Analysis
 |CVE|Product|Exploitation Evidence|Patch|
 |---|-------|-------------|----|
 |CVE-2017-18368|Zyxel|https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-a-new-variant-of-gafgyt-malware|https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-a-new-variant-of-gafgyt-malware|
-|CVE-2017-8046|Redhat|TBD|[Redhat](https://access.redhat.com/errata/RHSA-2018:2405)|
+|CVE-2014-8361|Realtek|https://unit42.paloaltonetworks.com/home-small-office-wireless-routers-exploited-to-attack-gaming-servers/|?|
+|CVE-2017-8046|Redhat|TBD|[Redhat](https://access.redhat.com/errata/RHSA-2018:2405)|https://www.zerodayinitiative.com/advisories/ZDI-15-155/|
 |CVE-2021-31805|?|?|PA|
 |CVE-2020-25078|?|?|PA|
 |CVE-2019-2729|?|?|PA|
