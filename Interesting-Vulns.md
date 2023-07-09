@@ -10,6 +10,7 @@ VULNS READY FOR CISA
 VULNS That Need Analysis
 |CVE|Product|Exploitation Evidence|Patch|
 |---|-------|-------------|----|
+|CVE-2014-0263|Windows|https://www.watchguard.com/wgrd-resource-center/security-report-q4-2021|?|
 |CVE-2019-16098| Micro-Star MSI Afterburner|https://www.microsoft.com/en-us/security/blog/2023/07/06/the-five-day-job-a-blackbyte-ransomware-intrusion-case-study/|?|
 |CVE-2021-33544|UDP Geutebruck|https://cujo.com/iot-chronicle-summer-2021/|?|
 |CVE-2020-2883|Oracle Weblogic|https://www.zdnet.com/article/oracle-warns-of-attacks-against-recently-patched-weblogic-security-bug/|?|
