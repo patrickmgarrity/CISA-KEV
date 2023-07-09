@@ -1,4 +1,5 @@
 VULNS READY FOR CISA
+
 |CVE|Product|Exploitation Evidence|Patch|
 |---|-------|-------------|----|
 |CVE-2022-31199|Netwrix Auditor|[CISA](https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-and-partners-release-joint-cybersecurity-advisory-newly-identified-truebot-malware-variants)|https://bishopfox.com/blog/netwrix-auditor-advisory|
@@ -6,12 +7,12 @@ VULNS READY FOR CISA
 |CVE-2017-17215|Huawei HG532|[Palo Alto Unit 42](https://unit42.paloaltonetworks.com/unit42-multi-exploit-iotlinux-botnets-mirai-gafgyt-target-apache-struts-sonicwall/)|https://www.huawei.com/en/psirt/security-notices/huawei-sn-20171130-01-hg532-en|
 |CVE-2023-23752|Joomla|https://isc.sans.edu/diary/Increase+in+exploits+agains+Joomla+CVE202323752/29614|https://developer.joomla.org/security-centre/894-20230201-core-improper-access-check-in-webservice-endpoints.html|
 |CVE-2020-9496|Apache OFBiz|https://lists.apache.org/thread/ln3jol43hgbmlkx1krx737zlt7kw84x7|https://www.csoonline.com/article/573753/zoho-manageengine-flaw-is-actively-exploited-cisa-warns.html|
+|CVE-2014-1548|Mozilla Firefox|https://www.watchguard.com/wgrd-resource-center/security-report-q4-2021|https://www.mozilla.org/en-US/security/advisories/mfsa2014-56/|
+|CVE-2014-0263|Windows|https://www.watchguard.com/wgrd-resource-center/security-report-q4-2021|https://learn.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-007|
 
 VULNS That Need Analysis
 |CVE|Product|Exploitation Evidence|Patch|
 |---|-------|-------------|----|
-|CVE-2014-1548|Windows|https://www.watchguard.com/wgrd-resource-center/security-report-q4-2021|?|
-|CVE-2014-0263|Windows|https://www.watchguard.com/wgrd-resource-center/security-report-q4-2021|?|
 |CVE-2019-16098| Micro-Star MSI Afterburner|https://www.microsoft.com/en-us/security/blog/2023/07/06/the-five-day-job-a-blackbyte-ransomware-intrusion-case-study/|?|
 |CVE-2021-33544|UDP Geutebruck|https://cujo.com/iot-chronicle-summer-2021/|?|
 |CVE-2020-2883|Oracle Weblogic|https://www.zdnet.com/article/oracle-warns-of-attacks-against-recently-patched-weblogic-security-bug/|?|
