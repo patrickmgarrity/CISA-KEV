@@ -15,3 +15,4 @@
 |https://unit42.paloaltonetworks.com/win32k-analysis-part-2/|
 |https://unit42.paloaltonetworks.com/manic-menagerie-targets-web-hosting-and-it/|
 |https://cujo.com/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/|
+|https://blog.google/threat-analysis-group/new-details-on-commercial-spyware-vendor-variston/|
