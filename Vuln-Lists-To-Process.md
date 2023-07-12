@@ -17,3 +17,4 @@
 |https://cujo.com/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/|
 |https://blog.google/threat-analysis-group/new-details-on-commercial-spyware-vendor-variston/|
 |https://hackerone.com/hacktivity/cve_discovery|
+|https://www.darkreading.com/endpoint/hackers-exploit-policy-loophole-windows-kernel-drivers|
